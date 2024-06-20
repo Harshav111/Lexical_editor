@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/css/main.f390894f.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/main.dfb50461.js",
+    "static/css/987.e154aff4.chunk.css": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/css/987.e154aff4.chunk.css",
+    "static/js/987.75d19e78.chunk.js": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/987.75d19e78.chunk.js",
+    "static/js/453.9ddc1f0b.chunk.js": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/453.9ddc1f0b.chunk.js",
+    "static/js/173.d588ba32.chunk.js": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/173.d588ba32.chunk.js",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/index.html",
+    "main.f390894f.css.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/css/main.f390894f.css.map",
+    "main.dfb50461.js.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/main.dfb50461.js.map",
+    "987.e154aff4.chunk.css.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/css/987.e154aff4.chunk.css.map",
+    "987.75d19e78.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/987.75d19e78.chunk.js.map",
+    "453.9ddc1f0b.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/453.9ddc1f0b.chunk.js.map",
+    "173.d588ba32.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/Harshav111/Lexical_editor.git/static/js/173.d588ba32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f390894f.css",
+    "static/js/main.dfb50461.js"
+  ]
+}
