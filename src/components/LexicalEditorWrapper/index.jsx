@@ -30,7 +30,7 @@ function LexicalEditorWrapper(props) {
         />
         <OnChangePlugin onChange={onChange} />
         <HistoryPlugin />
-        <TreeViewPlugin />
+        {/* <TreeViewPlugin /> */}
         <ListPlugin />
         <LinkPlugin />
         <ImagesPlugin captionsEnabled={false} />
